@@ -1,0 +1,7 @@
+name "zookeeper"
+description "zookeeper C header build in D"
+copyright "Copyright © 2016, dushibaiyu"
+homepage "http://zookeeper.apache.org/"
+license "Apache"
+authors "Deimos"
+libs "zookeeper_mt" 
