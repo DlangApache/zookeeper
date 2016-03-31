@@ -1,0 +1,9 @@
+{
+	"name": "zookeeper",
+	"description": "Interface to the zookeeper library",
+	"copyright": "Copyright © 2016 dushibaiyu",
+	"homepage": "http://zookeeper.apache.org/",
+	"license": "ASL-2.0",
+	"authors": ["dushibaiyu"],
+	"libs": ["zookeeper_mt"]
+}
