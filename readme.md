@@ -1,5 +1,8 @@
 ##zookeeper
 
-D header for zookeeper(3.4.8) c header
+Interface to the zookeeper library version.
 
-        a extamples:https://github.com/dushibaiyu/kfkaConsumer
+Supported versions:
+- 3.4.8
+
+See also extamples at [https://github.com/DlangApache/kfkaConsumer](DlangApache/kfkaConsumer).
